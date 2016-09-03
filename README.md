@@ -5,6 +5,8 @@ Copyright (c) 2015-2016, CompuLab ltd.
 Author: Andrey Gelman <<andrey.gelman@compulab.co.il>>  
 License: GNU GPLv2 or later, at your option  
 
+I am no more associated with CompuLab, so any difference between the latest code in this repository and CompuLab's repository should be considered normal course of events.
+
 ## Project submodules
 This project consists of the following parts:
 1. airtop-fpsvc - AirTop Front Panel service daemon  
